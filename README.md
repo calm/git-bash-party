@@ -7,9 +7,11 @@ Awesome bash helpers to make your git times good times.
 Clone this repository, and import into your pash profile
 
 ```sh
+cd ~
+
 git clone https://github.com/calm/git-bash-party.git
 
-echo 'source ./git-bash-party/git-bash-party.sh' >> ~/.bash_profile
+echo 'source ~/git-bash-party/git-bash-party.sh' >> ~/.bash_profile
 ```
 
 ## Highlights
