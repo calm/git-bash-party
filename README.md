@@ -14,7 +14,7 @@ echo 'source ~/git-bash-party/git-bash-party.sh' >> ~/.bash_profile
 
 ## Highlights
 
-For the full list of commands, just read the `.sh` file. Here are my personal favorites:
+For the full list of commands, just read the `.sh` file. Here are [Calm’s](https://www.calm.com/) personal favorites:
 
 ### gplod
 
@@ -30,7 +30,7 @@ Delete a tag from local and remote
 
 ### gcomp
 
-Compare the diff between develop and master. Super helpful before a deploy to sanity-check what's new.
+Compare the diff between develop and master. Super helpful before a deploy to sanity-check what’s new.
 
 ### gdeploy
 
