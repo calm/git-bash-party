@@ -8,9 +8,7 @@ Clone this repository, and import into your pash profile
 
 ```sh
 cd ~
-
 git clone https://github.com/calm/git-bash-party.git
-
 echo 'source ~/git-bash-party/git-bash-party.sh' >> ~/.bash_profile
 ```
 
