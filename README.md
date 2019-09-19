@@ -10,6 +10,7 @@ Clone this repository, and import into your pash profile
 cd ~
 git clone https://github.com/calm/git-bash-party.git
 echo 'source ~/git-bash-party/git-bash-party.sh' >> ~/.bash_profile
+source ~/.bash_profile
 ```
 
 ## Highlights
